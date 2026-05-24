@@ -43,27 +43,30 @@ The dataset includes customer information such as:
 by
 
 -1. Install dependencies:
+
 pip install -r requirements.txt
 
 -2. Run the application:
+
 streamlit run app.py
 
 ---
 # Project Files
-1-app.py → Streamlit web application
+-app.py → Streamlit web application
 
-2-model.pkl → Trained machine learning model
+-model.pkl → Trained machine learning model
 
-3-notebook.ipynb → Data analysis and model training
+-notebook.ipynb → Data analysis and model training
 
-4-dataset → Original dataset
+-dataset → Original dataset
 
  ---
 # Output
 The model predicts:
 
-Customer will stay ✅
-Customer will churn ❌
+-Customer will stay ✅
+
+-Customer will churn ❌
 
 ---
 # Notes
