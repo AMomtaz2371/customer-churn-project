@@ -71,3 +71,8 @@ The model predicts:
 # Notes
 No separate transformer file was saved because preprocessing was done using pandas get_dummies.
 The model performs better for non-churning customers due to class imbalance in the dataset.
+
+---
+
+# 🌐 Deployment Link
+https://customer-churn-project-krdkj4gx8ee6pkuxf9kdt9.streamlit.app/
