@@ -48,18 +48,21 @@ pip install -r requirements.txt
 -2. Run the application:
 streamlit run app.py
 
+---
 # Project Files
-app.py → Streamlit web application
-model.pkl → Trained machine learning model
-notebook.ipynb → Data analysis and model training
-dataset → Original dataset
+1-app.py → Streamlit web application
+2-model.pkl → Trained machine learning model
+3-notebook.ipynb → Data analysis and model training
+4-dataset → Original dataset
 
+ ---
 # Output
 The model predicts:
 
 Customer will stay ✅
 Customer will churn ❌
 
+---
 # Notes
 No separate transformer file was saved because preprocessing was done using pandas get_dummies.
 The model performs better for non-churning customers due to class imbalance in the dataset.
