@@ -1,6 +1,7 @@
 # Customer Churn Prediction Project
 
-(1) #📌 Overview
+ #📌 Overview
+ 
 This project is a Machine Learning web application that predicts whether a customer will stay or leave (churn).  
 The model is built using customer demographic and service usage data to support business decisions and improve customer retention.
 
