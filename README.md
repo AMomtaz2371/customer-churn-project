@@ -51,8 +51,11 @@ streamlit run app.py
 ---
 # Project Files
 1-app.py → Streamlit web application
+
 2-model.pkl → Trained machine learning model
+
 3-notebook.ipynb → Data analysis and model training
+
 4-dataset → Original dataset
 
  ---
