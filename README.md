@@ -40,8 +40,9 @@ The dataset includes customer information such as:
 ---
 
 # How to Run the Project
+by
 
-# 1. Install dependencies:
+##1. Install dependencies:
 pip install -r requirements.txt
 
 ##2. Run the application:
