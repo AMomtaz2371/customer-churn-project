@@ -42,23 +42,24 @@ The dataset includes customer information such as:
 # How to Run the Project
 by
 
-##1. Install dependencies:
+-1. Install dependencies:
 pip install -r requirements.txt
 
-##2. Run the application:
+-2. Run the application:
 streamlit run app.py
 
-📁 Project Files
+# Project Files
 app.py → Streamlit web application
 model.pkl → Trained machine learning model
 notebook.ipynb → Data analysis and model training
 dataset → Original dataset
-📈 Output
 
+# Output
 The model predicts:
 
 Customer will stay ✅
 Customer will churn ❌
-⚠️ Notes
+
+# Notes
 No separate transformer file was saved because preprocessing was done using pandas get_dummies.
 The model performs better for non-churning customers due to class imbalance in the dataset.
